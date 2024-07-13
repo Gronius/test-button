@@ -1,0 +1,44 @@
+body {
+  display: block;
+}
+
+.button {
+  width: 360px;
+  text-align: center;
+  margin: 0 auto;
+  background: #2c2c2c;
+}
+
+.button p {
+  padding: 20px 0;
+  font-size: 22px;
+  color: #fff;
+}
+
+.footer-button {
+  display: flex;
+  padding: 16px 0 32px 0;
+  height: 46px;
+  margin: 0 auto;
+}
+
+.button-escolha {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.button-img {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: space-between;
+  padding: 6px 16px;
+  width: 176px;
+  height: 44px;
+  font-size: 16px;
+  color: #fff;
+  background: #2c2c2c;
+  cursor: pointer;
+}
